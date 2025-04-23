@@ -1,0 +1,6 @@
+## 🚀 How to Use the App
+
+1. Make sure all required packages are installed (`gradio`, `xgboost`, `pandas`, `joblib`).
+2. Run the Python script to launch the app:
+   ```bash
+   python gradio_app.py
